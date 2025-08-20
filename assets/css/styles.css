@@ -188,6 +188,10 @@
     grid-template-columns: 1fr;
   }
 
+   h2{
+    font-size: 5rem;
+  }
+  
   .gallery-img {
     width: 100%;
     max-width: 100%;
@@ -250,4 +254,5 @@
     display: none;
   }
 }
+
 
